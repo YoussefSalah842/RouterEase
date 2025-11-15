@@ -1,0 +1,16 @@
+c:\users\salsh\onedrive\documents\visual studio 2015\Projects\RouterSettingsApp\RouterSettingsApp\bin\Debug\RouterSettingsApp.exe.config
+c:\users\salsh\onedrive\documents\visual studio 2015\Projects\RouterSettingsApp\RouterSettingsApp\bin\Debug\RouterSettingsApp.exe
+c:\users\salsh\onedrive\documents\visual studio 2015\Projects\RouterSettingsApp\RouterSettingsApp\bin\Debug\RouterSettingsApp.pdb
+c:\users\salsh\onedrive\documents\visual studio 2015\Projects\RouterSettingsApp\RouterSettingsApp\obj\Debug\RouterSettingsApp.csprojResolveAssemblyReference.cache
+c:\users\salsh\onedrive\documents\visual studio 2015\Projects\RouterSettingsApp\RouterSettingsApp\obj\Debug\RouterSettingsApp.Properties.Resources.resources
+c:\users\salsh\onedrive\documents\visual studio 2015\Projects\RouterSettingsApp\RouterSettingsApp\obj\Debug\RouterSettingsApp.csproj.GenerateResource.Cache
+c:\users\salsh\onedrive\documents\visual studio 2015\Projects\RouterSettingsApp\RouterSettingsApp\obj\Debug\RouterSettingsApp.exe
+c:\users\salsh\onedrive\documents\visual studio 2015\Projects\RouterSettingsApp\RouterSettingsApp\obj\Debug\RouterSettingsApp.pdb
+c:\users\salsh\onedrive\documents\visual studio 2015\Projects\RouterSettingsApp\RouterSettingsApp\obj\Debug\RouterSettingsApp.MainForm.resources
+C:\Users\salsh\onedrive\documents\visual studio 2015\Projects\RouterSettingsApp\RouterSettingsApp\obj\Debug\RouterSettingsApp.Help.resources
+C:\Users\salsh\onedrive\documents\visual studio 2015\Projects\RouterSettingsApp\RouterSettingsApp\obj\Debug\RouterSettingsApp.About.resources
+C:\Users\salsh\onedrive\documents\visual studio 2015\Projects\RouterSettingsApp\RouterSettingsApp\obj\Debug\RouterSettingsApp.NetworkInfoForm.resources
+C:\Users\salsh\onedrive\documents\visual studio 2015\Projects\RouterSettingsApp\RouterSettingsApp\obj\Debug\RouterSettingsApp.NetworkSettingsForm.resources
+C:\Users\salsh\onedrive\documents\visual studio 2015\Projects\RouterSettingsApp\RouterSettingsApp\obj\Debug\RouterSettingsApp.RouterInfoReaderForm.resources
+C:\Users\salsh\onedrive\documents\visual studio 2015\Projects\RouterSettingsApp\RouterSettingsApp\obj\Debug\RouterSettingsApp.IPconfig_settings.resources
+C:\Users\salsh\onedrive\documents\visual studio 2015\Projects\RouterSettingsApp\RouterSettingsApp\obj\Debug\RouterSettingsApp.DiagnoseForm.resources
