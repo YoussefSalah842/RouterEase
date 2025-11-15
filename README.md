@@ -2,8 +2,7 @@
 
 RouterEase lets you instantly open and manage your router settings easily.
 
-<img width="1183" height="717" alt="Image" src="https://github.com/user-attachments/assets/f8b47add-6ad8-4a19-8569-74d34aca6e87" />
-
+<img width="1141" height="755" alt="Image" src="https://github.com/user-attachments/assets/e51a5499-ea67-4c3d-9475-8f25781c4738" />
 
 RouterEase is a lightweight Windows application built with C#. It helps users quickly access and manage their router settings without manually entering IP addresses.
 
