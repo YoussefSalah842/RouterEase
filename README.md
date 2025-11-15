@@ -28,5 +28,5 @@ RouterEase is a lightweight Windows application built with C#. It helps users qu
 ## Version Info
 
 Version: 1.0
-Release Date: October 15, 2025
+Release Date: 2025-11-15
 Developer: [YoussefSalah842](https://github.com/YoussefSalah842)
